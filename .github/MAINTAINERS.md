@@ -5,6 +5,7 @@ This document lists the Maintainers of the Project. Maintainers may be added onc
 | **NAME**        | **Handle**    | **Affiliation** |
 | --------------- | ------------- | --------------- |
 | Adam J. Stewart | @adamjstewart | TUM             |
+| Caleb Robinson  | @calebrob6    | Microsoft AI for Good |
 
 ---
 
